@@ -3,6 +3,8 @@ NeoTrellis pad for launching sequences or samples via USB MIDI on 1010 music Bla
 
 Runs on Adafruit NeoTrellis 4x4 driver board and Feather M4 with CircuitPython 5.0.0 or newer.
 
+[![Trellis demo](http://img.youtube.com/vi/ZG33SLi7mFo/0.jpg)](http://www.youtube.com/watch?v=ZG33SLi7mFo)
+
 ## Setup and Installation:
 - Wire the NeoTrellis and Feather as shown here:
 https://learn.adafruit.com/adafruit-neotrellis/circuitpython-code
