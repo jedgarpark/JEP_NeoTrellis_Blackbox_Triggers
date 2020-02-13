@@ -20,20 +20,20 @@ The libraries you'll need are:
 - adafruit_midi
 
 
-##Code
+## Code
 Adafruit recommends using the Mu editor for using your CircuitPython code with the Feather boards. You can get more info in this guide.
 
 Download the neotrellis_blackbox_triggers.py and open it into Mu. Plug your Feather M4 into your computer via a known good USB cable. In your operating system's file explorer/finder, you should see a new flash drive named CIRCUITPY. Save the code from Mu to the Feather's CIRCUITPY drive as code.py (that's the name of the program that will automatically run when the board restarts).
 
-##Usage
+## Usage
 Plug the NeoTrellis/Feather M4 into your Blackbox with a microUSB data/power cable (not power only!).
 
 When the NeoTrellis boots up it will display all white pixels, and then go to config mode with the bottom left pixel magenta and bottom right cyan.
 
 This is where you can pick either sample pad mode or sequence trigger mode.
 
-###Sample Pads mode
+### Sample Pads mode
 Press the bottom left magenta button and it'll start in sample playback mode, mimicking the Pads screen. To use, press a button to trigger the corresponding blackbox Pads sample. Hold a button to loop the sample, if it's set to loop.
 
-###Sequence Trigger mode
+### Sequence Trigger mode
 During the config screen choice, hit the bottom right cyan button to choose Sequence Trigger mode. Now, you can press a button to toggle on the corresponding sequence on the blackbox. Press the button a second time to toggle that sequence off.
