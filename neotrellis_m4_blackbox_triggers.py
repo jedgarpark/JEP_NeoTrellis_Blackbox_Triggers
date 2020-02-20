@@ -1,8 +1,7 @@
 # NeoTrellis M4 8x4 Blackbox Trigger Samples/Sequences
 # John Park
-# February 16, 2020
-# version 0.3
-
+# February 20, 2020
+# version 0.34
 import time
 import adafruit_trellism4
 import usb_midi

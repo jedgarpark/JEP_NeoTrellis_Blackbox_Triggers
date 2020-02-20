@@ -1,7 +1,7 @@
 # NeoTrellis Blackbox Triggers for Samples/Sequences
 # John Park
-# February 12, 2020
-# version 0.4
+# February 20, 2020
+# version 0.5
 # GPL 3.0 License
 
 # NeoTrellis 4x4 driver board + Feather M4 Express
