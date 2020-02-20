@@ -106,7 +106,7 @@ while True:
 
         # Send MIDI Note On message
         if press in note_map:  # send MIDI message
-            midi.send(NoteOn(note_map[press], 64))  # midi on, velocity 64
+            midi.send(NoteOn(note_map[press], 127))  # midi on, velocity 64
             print("MIDI On: ", note_map[press])
 
         # Simple color change for momentary pads

@@ -107,7 +107,7 @@ def trigger(event):
                 note = note_map[button]
                 # print("Pixel "+str(event.number)+" pressed.")  # debug only of physical buttons
                 print("Button "+str(button)+" pressed.")
-                midi.send(NoteOn(note, 64))
+                midi.send(NoteOn(note, 127))
                 print("Note On: "+str(note))
 
             # trigger off when a rising edge is detected for pad mode
@@ -134,7 +134,7 @@ def trigger(event):
                 note = note_map[button]
                 # print("Pixel "+str(event.number)+" pressed.")  # debug only of physical buttons
                 print("Button "+str(button)+" pressed.")
-                midi.send(NoteOn(note, 64))
+                midi.send(NoteOn(note, 127))
                 print("Note On: "+str(note))
 
 
