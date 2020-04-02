@@ -5,7 +5,7 @@ NeoTrellis M4 8x4 pad for launching both sequences _and_ samples via USB MIDI on
 
 [![Trellis demo](http://img.youtube.com/vi/p99yabXg0xk/0.jpg)](https://youtu.be/p99yabXg0xk)
 
-8x4 Version Runs on Adafruit NeoTrellis M4 with CircuitPython 5.0.0 or newer.
+# 8x4 Version Runs on Adafruit NeoTrellis M4 with CircuitPython 5.0.0 or newer.
 ## Parts
 - [NeoTrellis M4](https://www.adafruit.com/product/3938)
 
@@ -49,7 +49,7 @@ Press the a sample button and it'll start in sample playback mode, mimicking the
 Press a cyan button on the right to toggle on the corresponding sequence on the blackbox. Press the button a second time to toggle that sequence off.
 
 
-## NeoTrellis 4x4 pad for launching sequences or samples (choose a mode at startup) via USB MIDI on 1010 music Blackbox
+# NeoTrellis 4x4 pad for launching sequences or samples (choose a mode at startup) via USB MIDI on 1010 music Blackbox
 
 [![Trellis demo](http://img.youtube.com/vi/ZG33SLi7mFo/0.jpg)](http://www.youtube.com/watch?v=ZG33SLi7mFo)
 
